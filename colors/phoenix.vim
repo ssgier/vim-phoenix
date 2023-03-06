@@ -99,7 +99,7 @@ hi Directory                  guifg=#40BDFF guibg=NONE    gui=NONE      ctermfg=
 hi Identifier                 guifg=#787878 guibg=NONE    gui=NONE      ctermfg=246
 hi PreProc                    guifg=#787878 guibg=NONE    gui=NONE      ctermfg=246
 hi Special                    guifg=#EFEFEF guibg=NONE    gui=NONE      ctermfg=255
-hi Statement                  guifg=#CCCCCC guibg=NONE    gui=NONE      ctermfg=250
+hi Statement                  guifg=#CCCCCC guibg=NONE    gui=bold      ctermfg=250
 hi Title                      guifg=#CCCCCC guibg=NONE    gui=bold      ctermfg=250
 hi Type                       guifg=#64B2DB guibg=NONE    gui=NONE      ctermfg=039
 hi SpecialKey                 guifg=#40BDFF guibg=NONE    gui=NONE      ctermfg=039
@@ -108,7 +108,7 @@ hi Operator                   guifg=#AAAAAA guibg=NONE    gui=NONE      ctermfg=
 hi Exception                  guifg=#64B2DB guibg=NONE    gui=NONE      ctermfg=039
 hi Label                      guifg=#64B2DB guibg=NONE    gui=NONE      ctermfg=039
 hi Repeat                     guifg=#64B2DB guibg=NONE    gui=NONE      ctermfg=039
-hi Keyword                    guifg=#64B2DB guibg=NONE    gui=NONE      ctermfg=039
+hi Keyword                    guifg=#64B2DB guibg=NONE    gui=bold      ctermfg=039
 hi String                     guifg=#5697B8 guibg=NONE    gui=NONE      ctermfg=039
 hi Character                  guifg=#40BDFF guibg=NONE    gui=NONE      ctermfg=039
 hi Boolean                    guifg=#40BDFF guibg=NONE    gui=NONE      ctermfg=039
